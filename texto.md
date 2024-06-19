@@ -33,3 +33,24 @@ __maça__
 ## Links
 
 [clica pra ver a banana](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxjEwSOHaEXxchUEBzHUTZi_nLfV1c09Ob3A&s).
+
+# BLOCKQUOTES 
+
+> Markdownnn
+>
+>> MARKDOWN
+
+## Tables
+
+| Left columns  | Right columns |
+| ------------- |:-------------:|
+| left foo      | right foo     |
+| left bar      | right bar     |
+| left baz      | right baz     |
+
+## Blocks of code
+
+```
+let message = 'Hello world';
+alert(message);
+```
