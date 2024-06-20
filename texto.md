@@ -54,3 +54,80 @@ __maça__
 let message = 'Hello world';
 alert(message);
 ```
+# index.md
+# Documentação do Projeto
+
+Bem-vindo à documentação do nosso projeto. Aqui você encontrará informações sobre a instalação, uso e API. 
+
+- [Visão Geral] (overview.nd)
+- [Instalação] (installation.md)
+- [Uso] (usage.md)
+- [API] (api/index.md)
+- [exemplos] (examples/)
+ # overview.md 
+ 
+ ## Visão Geral 
+ 
+ Esta é uma visão geral do projeto. 
+ 
+ # installation.md 
+ 
+ ## Instalação Instrucoes de instalacao do projeto. 
+ 
+ # usage.md  
+ 
+ ##Uso 
+ 
+ Guia de como usar o software
+
+# api/index.md 
+
+## Documentação da API 
+
+Esta a documentação da API do nosso projeto. 
+
+# examples/ 
+
+Este diretório contém exemplos de uso do software.
+
+
+
+
+
+#Overview 
+
+## Visão Geral 
+
+Este projeto é uma solução para... 
+
+# Instalação 
+
+## Requisitos 
+- Python 3.x
+- Flask
+- ・・・
+
+## Instalação via pip 
+
+Para instalar, execute o seguinte comando
+
+# Uso
+
+## Configuração
+
+Para começar, configure... 
+
+## Executando o software 
+
+Para iniciar o software, execute... 
+
+# API 
+
+## Endpoints disponíveis ### `/api/v1/users` 
+
+Este endpoint retorna informações sobre... 
+
+# Exemplos 
+
+Aqui estão alguns exemplos de uso...
+
