@@ -2,8 +2,8 @@
 
 ## Requisitos de Sistema
 - Sistema Operacional: Windows, macOS ou Linux
-- Node.js versão 14.x ou superior
-- NPM versão 6.x ou superior
+- 8gb de ram ou superior
+- 
 
 ## Pré-requisitos
 Antes de iniciar a instalação, certifique-se de ter o Node.js e o NPM instalados em seu sistema. Caso não tenha, siga as instruções [neste link](https://nodejs.org/) para instalar.
