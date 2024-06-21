@@ -3,7 +3,7 @@
 O TaskManager é um software desenvolvido para auxiliar usuários a criar, visualizar e gerenciar suas tarefas diárias de maneira eficiente. Ele proporciona uma interface amigável e intuitiva que facilita a organização de tarefas, contribuindo para um melhor gerenciamento do tempo e aumento da produtividade.
 
 ## Instalação
-Para instalar o TaskManager, siga as instruções detalhadas no guia de instalação abaixo. Certifique-se de que todos os requisitos do sistema e pré-requisitos estão atendidos antes de iniciar a instalação.
+Para instalar o TaskManager, siga as instruções detalhadas no guia de instalação nomeado como "installation". Certifique-se de que todos os requisitos do sistema e pré-requisitos estão atendidos antes de iniciar a instalação.
 
 ## Guia de uso básico
 Criar uma tarefa: Na tela inicial, clique no botão "Adicionar Tarefa" e preencha as informações necessárias.
