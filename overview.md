@@ -1,1 +1,2 @@
-
+## Visão geral do software
+O TaskManager é um software desenvolvido para auxiliar usuários a criar, visualizar e gerenciar suas tarefas diárias de maneira eficiente. Ele proporciona uma interface amigável e intuitiva que facilita a organização de tarefas, contribuindo para um melhor gerenciamento do tempo e aumento da produtividade. Resumidamente, o programa "gerenciador de tarefas" ou "TaskManager" tem a função de armazenar as tarefas que o usuário tenha necessidade de colocar la. O aplicativo inclui abas de tarefas finalizadas, expedição de tarefa, data de criação e etc.
